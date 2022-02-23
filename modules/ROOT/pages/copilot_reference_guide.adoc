@@ -476,7 +476,7 @@ the current time (the red line). Drag the time-window control lines
 where needed to focus in on the day or days you want to locate change
 sets in.
 +
-image:copilot_reference_guide_media/topology_replay_time_preview.png[time_control_image,width=200]
+image::topology_replay_time_preview.png[time_control_image,width=200]
 * *View* controls to load a change set
 +
 The View icon indicates a change set at that point in time. Click on a
@@ -1314,7 +1314,7 @@ https://app.slack.com/block-kit-builder/): :
 
 *Webhook Example*
 
-image:copilot_reference_guide_media/webhookImage.png[webhook_image]
+image::webhookImage.png[webhook_image]
 
 == Settings
 
