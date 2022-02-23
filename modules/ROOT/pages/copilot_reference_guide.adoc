@@ -1242,7 +1242,10 @@ Output: :
 Escaping quotes for return values when creating custom values is
 performed automatically for strings within << >>.
 
-`{{{some_quoted_var}}}` disables escapes altogether, which should be
+....
+{{{some_quoted_var}}}
+....
+disables escapes altogether, which should be
 avoided, as it can unexpectedly cause embedded strings to form invalid
 JSON, for example, an alert name of `A “great” alert`, quotes, newlines,
 tabs, and so on are not allowed in JSON strings.
