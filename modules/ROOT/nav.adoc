@@ -1,0 +1,6 @@
+* xref:copilot_overview.adoc[]
+* xref:copilot_getting_started.adoc[]
+* xref:copilot_reference_guide.adoc[]
+* xref:copilot_faq.adoc[]
+* xref:copilot_release_notes.adoc[]
+* xref:copilot_release_notes_images.adoc[]

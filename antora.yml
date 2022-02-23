@@ -1,0 +1,10 @@
+name: copilot
+title: CoPilot
+version: 1.6.3
+start_page: ROOT:copilot_overview.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
