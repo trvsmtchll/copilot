@@ -12,7 +12,6 @@ instance.
 
 How do ThreatGuard firewall policies interact with existing/new firewall
 policies applied to the same gateways?
-==============================================================================================================
 
 The ThreatGuard drop policies are in addition to the existing firewall
 policies applied to the same gateways.
