@@ -3,12 +3,12 @@
 === Overview
 
 Aviatrix CoPilot provides a global operational view of your multi-cloud
-network. Enterprise IT teams use CoPilot’s dynamic topology mapping to
+network. Enterprise IT teams use CoPilot's dynamic topology mapping to
 maintain an accurate topology of their global multi-cloud networks,
 FlowIQ to analyze global network traffic flows and global heat maps and
 time series trend charts to easily pinpoint and troubleshoot traffic
 anomalies. CoPilot leverages the intelligence and advanced network and
-security services delivered by Aviatrix’s multi-cloud network platform
+security services delivered by Aviatrix's multi-cloud network platform
 to provide enterprise cloud network operations teams both familiar
 day-two operational features such as packet capture, trace route and
 ping and new operational capabilities specifically built for multi-cloud
@@ -16,24 +16,24 @@ network environments.
 
 === Key Benefits
 
-* *Network Health Monitor* – Real-time cloud network resource inventory
+* *Network Health Monitor*  Real-time cloud network resource inventory
 and status
-* *Dynamic Topology Map* – Accurate, multi-cloud network topology,
+* *Dynamic Topology Map*  Accurate, multi-cloud network topology,
 layout control and search
-* *FlowIQ* – Detailed application traffic flow analysis, global heat map
+* *FlowIQ*  Detailed application traffic flow analysis, global heat map
 and trends
-* *Multi-Cloud Tagging* – Tag multi-cloud resources, search by tag,
+* *Multi-Cloud Tagging*  Tag multi-cloud resources, search by tag,
 filter traffic data by tag
-* *CloudRoutes* – Detailed searchable routing tables across cloud
+* *CloudRoutes*  Detailed searchable routing tables across cloud
 providers
-* *Notifications* – Alert on resources status/utilization across
+* *Notifications*  Alert on resources status/utilization across
 multi-Cloud
-* *AppIQ* – Comprehensive reports to analyze network path between any
+* *AppIQ*  Comprehensive reports to analyze network path between any
 two cloud instances
-* *ThreatIQ with ThreatGuard* – Monitor for security threats from
+* *ThreatIQ with ThreatGuard*  Monitor for security threats from
 malicious sites, set alerts when threats are detected, and block
 threat-IP associated traffic
-* *Inventory Reports* – Create detailed reports showing your inventory
+* *Inventory Reports*  Create detailed reports showing your inventory
 of managed resources in a single cloud or across all clouds in your
 multi-cloud network
 
