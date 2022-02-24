@@ -1,6 +1,6 @@
-== Aviatrix CoPilot Deployment Guide
+= Aviatrix CoPilot Deployment Guide
 
-=== Launch CoPilot
+== Launch CoPilot
 
 Aviatrix CoPilot is available as an all-in-one virtual appliance that is
 hosted in a user's own IaaS cloud environment. It can be launched as an
@@ -14,7 +14,7 @@ Aviatrix Controller. Aviatrix Controller and CoPilot are not required to
 be collocated. It is possible to run them in separate VPCs/VNETs or
 separate cloud providers (in multi-cloud environments).
 
-==== Instance Configuration Details
+=== Instance Configuration Details
 
 * Configure your CoPilot security group as shown below to allow the
 following:

@@ -1,21 +1,19 @@
-[cols="",options="header",]
-|===
-|Aviatrix CoPilot User Reference Guide
-|
+= Aviatrix CoPilot User Reference Guide
 
-|Aviatrix CoPilot is a component of Aviatrix platform offering that
+
+Aviatrix CoPilot is a component of Aviatrix platform offering that
 extends visibility into complex, multi-cloud networks deployed and
 managed by Aviatrix Controller.
 
-|CoPilot delivers, end-to-end, in-depth, historical analytics of multi
+CoPilot delivers, end-to-end, in-depth, historical analytics of multi
 cloud networks with a single pane of glass that offers application
 flows, inventory, health, and complete topological view of the network.
 
-|This guide will provide descriptions and definitions of functionalities
+This guide will provide descriptions and definitions of functionalities
 that are available in Aviatrix CoPilot.
 
-|CoPilot Dashboard
-|===
+== CoPilot Dashboard
+
 
 This section describes the Aviatrix CoPilot dashboard.
 
@@ -126,6 +124,7 @@ that is down is shown as a black line.
 ** Tunnels statuses are shown with green or red lines, representing the
 status of the link.
 ____
+
 * Search for any objects and their properties
 +
 In Topology, you can search for any objects that are plotted. This

@@ -1,6 +1,6 @@
-== Aviatrix CoPilot Overview
+= Aviatrix CoPilot Overview
 
-=== Overview
+== Overview
 
 Aviatrix CoPilot provides a global operational view of your multi-cloud
 network. Enterprise IT teams use CoPilot's dynamic topology mapping to

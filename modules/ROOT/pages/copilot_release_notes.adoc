@@ -1,4 +1,4 @@
-== Aviatrix CoPilot Release Notes
+= Aviatrix CoPilot Release Notes
 
 This section describes new features and enhancements for Aviatrix
 CoPilot software releases.
@@ -7,17 +7,17 @@ For information about Aviatrix CoPilot image releases, see
 https://docs.aviatrix.com/HowTos/copilot_release_notes_images.html[Aviatrix
 CoPilot Image Release Notes].
 
-=== CoPilot Release 1.6.3 (1/31/2022)
+== CoPilot Release 1.6.3 (1/31/2022)
 
 * *Security fix*: This patch mitigates a vulnerability that would allow
 an attacker to escalate user permissions.
 
-=== CoPilot Release 1.6.2 (1/28/2022)
+== CoPilot Release 1.6.2 (1/28/2022)
 
 * *Security fix*: This patch mitigates a vulnerability that would allow
 an attacker to escalate user permissions.
 
-=== CoPilot Release 1.6.1 (1/26/2022)
+== CoPilot Release 1.6.1 (1/26/2022)
 
 * Search and filter for instance tags — You can now search and filter
 for instance tags in Topology (feature available starting from
@@ -28,7 +28,7 @@ Tags category, select the instance tag to filter for.
 * Performance improvements.
 * Minor bug fixes.
 
-=== CoPilot Release 1.6.0 (1/25/2022)
+== CoPilot Release 1.6.0 (1/25/2022)
 
 * (Topology) Packet capture from Topology — You can now capture packets
 on any gateway. In a topology map, click on any gateway where you wish
@@ -69,7 +69,7 @@ all visible charts for easy correlation between metrics.
 * Performance improvements.
 * Minor bug fixes.
 
-=== CoPilot Release 1.5.1 (1/12/2022)
+== CoPilot Release 1.5.1 (1/12/2022)
 
 * (Performance) Performance Charts now have cross hairs that are synced
 across all visible charts for easy correlation between metrics.

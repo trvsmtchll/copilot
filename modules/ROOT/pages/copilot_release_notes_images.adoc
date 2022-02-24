@@ -1,4 +1,4 @@
-== Aviatrix CoPilot Image Release Notes
+= Aviatrix CoPilot Image Release Notes
 
 Aviatrix CoPilot is delivered via one image that should be maintained
 with the latest version for managing security and support for the
@@ -10,7 +10,7 @@ releases, see
 https://docs.aviatrix.com/HowTos/copilot_release_notes.html[Aviatrix
 CoPilot Release Notes].
 
-=== CoPilot Image: Version 1.5.1 (01/14/22)
+== CoPilot Image: Version 1.5.1 (01/14/22)
 
 * Aviatrix CoPilot image version 1.5.1 released on 01/14/2022. If you
 are deploying the 1.5.1 image version from the marketplace, the
